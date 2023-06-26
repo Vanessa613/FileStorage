@@ -1,1 +1,15 @@
-
+{
+    "firstname" : "Vanessa",
+    "gender" : false,
+    "height" : 160,
+    "email" : "zhen0613zhen@gmail.com",
+    "city" : {
+        "通訊地址" : "苗栗",
+        "戶籍地址" : "竹南"
+    },
+    "phone" : {
+        "市話" : "037463581",
+        "手機" : "0930193937"
+    },
+    "cars" : ["BMW", "AUDI", "GT4"]
+}
